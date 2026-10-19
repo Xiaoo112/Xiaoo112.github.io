@@ -304,6 +304,7 @@ section { padding-top: 60px; }
 .badge-review { background: #e8f4fd; color: #1a6fa0; border: 1px solid #c2dff0; }
 .badge-submit { background: var(--accent-light); color: var(--accent); border: 1px solid #d0d9ee; }
 .badge-prep   { background: #fdf3e8; color: #a0601a; border: 1px solid #eed9c2; }
+.badge-accept { background: #e8f7ee; color: #1a7a3c; border: 1px solid #c2e8d0; }
 .co-first { display: block; font-size: 0.75rem; color: #aaa; margin-top: 3px; }
 
 /* ── Skills ── */
